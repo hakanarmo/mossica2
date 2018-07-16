@@ -1,0 +1,6 @@
+token=NDY4NDAxOTI2NTc3MzI0MDMy.Di4o3A.ns7u02j4fnAlU7gwiY2Pu0zPkAk
+owner=201460488037466112
+prefix=?
+game=?help - Gaming Lounge
+stayinchannel=true
+songinstatus=true
